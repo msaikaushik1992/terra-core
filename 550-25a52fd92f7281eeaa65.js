@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[550],{2972:function(e,t,a){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var u=f(a(0)),n=f(a(135)),d=f(a(932));function f(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return u.default.createElement(n.default,{image:d.default,alt:"User",id:"image-avatar"})}},932:function(e,t,a){e.exports=a.p+"87ec563ff16c288f58b0747d553762d6.jpg"}}]);
+//# sourceMappingURL=550-25a52fd92f7281eeaa65.js.map

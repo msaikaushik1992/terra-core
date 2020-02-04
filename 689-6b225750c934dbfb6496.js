@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[689],{3372:function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var u=n(o(0)),d=n(o(894));function n(e){return e&&e.__esModule?e:{default:e}}var i=function(){return u.default.createElement(d.default,{id:"closedButtonText",closedButtonText:"Custom Text"},u.default.createElement("p",null,"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."))};t.default=i}}]);
+//# sourceMappingURL=689-6b225750c934dbfb6496.js.map

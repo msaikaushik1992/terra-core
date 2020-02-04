@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///packages/terra-button-group/lib/terra-dev-site/test/button-group/ButtonGroupIcon.test.scss"],"names":[],"mappings":"AAEI,yEAFJ,0CAGM,YAAa,CAEhB","file":"416-6b79de821d20e3e96e44.css","sourcesContent":[":local {\n  .icon {\n    @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {\n      margin-top: 0;\n    }\n  }\n}\n"]}
